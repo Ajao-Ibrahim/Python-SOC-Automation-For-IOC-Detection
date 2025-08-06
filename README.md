@@ -53,3 +53,6 @@
 | Encoded PowerShell Usage | if "powershell" in field and "enc" in field:     |
 
 ---
+## Pictures
+
+---
